@@ -5,7 +5,6 @@ import { Footer } from "@/components/Footer";
 import { Hackathons } from "@/components/Hackathons";
 import { Header } from "@/components/Header";
 import { Hero } from "@/components/Hero";
-import { Projects } from "@/components/Projects";
 import { Stack } from "@/components/Stack";
 
 export default function Home() {
@@ -15,7 +14,6 @@ export default function Home() {
       <main id="main">
         <Hero />
         <Hackathons />
-        <Projects />
         <Experience />
         <Stack />
         <Education />

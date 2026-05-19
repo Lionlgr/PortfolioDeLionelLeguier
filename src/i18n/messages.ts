@@ -51,39 +51,6 @@ export const messages = {
         },
       },
     },
-    projects: {
-      heading: "Projets école",
-      subheading: "Une sélection de projets significatifs réalisés à l'université",
-      viewProject: "Voir le projet",
-      viewCode: "Voir le code",
-      tags: "Stack",
-      items: {
-        projeqster: {
-          title: "projeqSter",
-          description:
-            "Application web de gestion de projets et de tâches pour PME, conçue en équipe lors de la Licence 3 MIAGE. React + Next.js, modélisation Merise, sprints Agile.",
-          context: "Licence 3 MIAGE · Équipe de 3",
-        },
-        mediatheque: {
-          title: "Médiathèque concurrente",
-          description:
-            "Médiathèque multi-utilisateur avec gestion de l'emprunt, de la réservation et du retour, implémentée à l'aide de threads Java et synchronisation fine.",
-          context: "BUT Informatique 2 · Java threads",
-        },
-        sncf: {
-          title: "SncfMapHelper",
-          description:
-            "Application web d'attribution d'ouvriers sur des gares SNCF en travaux, avec carte interactive et back-office d'administration.",
-          context: "BUT Informatique 2 · Équipe de 3 · Web",
-        },
-        hex: {
-          title: "Jeu HEX",
-          description:
-            "Implémentation du jeu de stratégie HEX avec interface graphique et IA capable de jouer contre un humain. Algorithmes de plateau et heuristiques.",
-          context: "BUT Informatique 2 · Algorithmes",
-        },
-      },
-    },
     experience: {
       heading: "Expérience",
       subheading: "3 ans en entreprise pendant mes études",
@@ -215,39 +182,6 @@ export const messages = {
             "Rebuilt Google Solar from scratch (proprietary algorithm with 21 variants)",
             "Integrated Google satellite capture + Cesium, GPT Image and fal.ai for 3D mesh generation",
           ],
-        },
-      },
-    },
-    projects: {
-      heading: "University projects",
-      subheading: "A selection of meaningful projects from my studies",
-      viewProject: "View project",
-      viewCode: "View code",
-      tags: "Stack",
-      items: {
-        projeqster: {
-          title: "projeqSter",
-          description:
-            "Project and task management web app for SMEs, built as a team during my MIAGE bachelor's third year. React + Next.js, Merise modeling, Agile sprints.",
-          context: "Bachelor's 3 MIAGE · Team of 3",
-        },
-        mediatheque: {
-          title: "Concurrent Library System",
-          description:
-            "Multi-user library system handling borrowing, reservations and returns, implemented using Java threads and fine-grained synchronization.",
-          context: "BUT Computer Science Y2 · Java threads",
-        },
-        sncf: {
-          title: "SncfMapHelper",
-          description:
-            "Web application to assign workers to SNCF stations under construction, with an interactive map and admin back-office.",
-          context: "BUT Computer Science Y2 · Team of 3 · Web",
-        },
-        hex: {
-          title: "HEX game",
-          description:
-            "Implementation of the HEX strategy game with a GUI and an AI capable of playing against a human. Board algorithms and heuristics.",
-          context: "BUT Computer Science Y2 · Algorithms",
         },
       },
     },
