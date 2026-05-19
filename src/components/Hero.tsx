@@ -116,7 +116,7 @@ export function Hero() {
             className="relative mx-auto"
           >
             <div className="absolute -inset-4 rounded-full bg-gradient-to-tr from-cyan-500/30 via-indigo-500/20 to-transparent blur-2xl" />
-            <div className="relative size-44 overflow-hidden rounded-full border border-zinc-800 bg-zinc-950 ring-4 ring-zinc-950 md:size-56">
+            <div className="relative size-44 overflow-hidden rounded-full bg-white md:size-56">
               <Image
                 src="/avatar.png"
                 alt="Lionel Leguier"
